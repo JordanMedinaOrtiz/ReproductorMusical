@@ -2,7 +2,7 @@
 <p>Este repositorio alberga mi código fuente y los archivos relacionados con el proyecto final desarrollado en la clase de Laboratorio de Programación 2. El proyecto consiste en un sistema de reproducción musical que simula un reproductor de música, donde los usuarios pueden seleccionar su género musical preferido y recibir una playlist aleatoria.</p>
 <hr>
 <div align="center">
-  <h2>Para la Realización del Juego se Utilizo: </h2>
+  <h2>Para la Realización del Reproductor se Utilizo: </h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" title="C" width="40px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="40px">
 </div>
