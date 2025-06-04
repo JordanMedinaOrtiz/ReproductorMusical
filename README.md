@@ -45,7 +45,7 @@
 
    ```sh
    git clone https://github.com/jordanmedinaortiz/music-player-c.git
-   cd music-player-c.git
+   cd music-player-c
    ```
 
 2. Compile the program using GCC or any compatible C compiler:
