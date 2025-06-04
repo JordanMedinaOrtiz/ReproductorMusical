@@ -51,7 +51,7 @@
 
    ```sh
    git clone https://github.com/jordanmedinaortiz/music-player-c.git
-   cd music-player-c.git
+   cd music-player-c
 2. Compila el programa usando GCC o cualquier compilador compatible con C:
    ```sh
    gcc ReproduccionMusical.c -o ReproduccionMusical
