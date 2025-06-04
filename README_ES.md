@@ -1,19 +1,8 @@
 <h1 align="center">Sistema Reproductor de Música en C/C++ 🎵</h1>
 
 <p align="left">
-  <a href="README.md" target="_blank" style="
-    display: inline-block;
-    background-color: #00247D;
-    color: white;
-    padding: 8px 16px;
-    border-radius: 8px;
-    text-decoration: none;
-    font-weight: bold;
-    font-family: sans-serif;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
-    transition: background-color 0.3s;
-  " onmouseover="this.style.backgroundColor='#003EB3'" onmouseout="this.style.backgroundColor='#00247D'">
-    🇬🇧 View README in English
+  <a href="README.md" target="_blank">
+    View README in English
   </a>
 </p>
 
